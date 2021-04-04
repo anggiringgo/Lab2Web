@@ -102,7 +102,7 @@ background: #0B6B3A;
 
 ### 5. Menambahkan CSS Selector
 
-*`Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css.'*
+*`Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css.`*
 
 ```
 /* ID Selector */
